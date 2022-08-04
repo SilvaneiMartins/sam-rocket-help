@@ -29,7 +29,7 @@ Atualmente o projeto não necessita de nenhuma variável ambiente, então, é si
 $ git clone https://github.com/SilvaneiMartins/sam-rocket-help
 
 # Acessar a pasta do projeto
-$ cd sam-rocket-help.git
+$ cd sam-rocket-help
 
 # Instalar as dependências
 $ yarn
