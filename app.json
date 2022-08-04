@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ignite-lab-03-rocket-help",
+    "slug": "ignite-lab-03-rocket-help",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
